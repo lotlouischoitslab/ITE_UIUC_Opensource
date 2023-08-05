@@ -33,12 +33,12 @@ Opensource resources for ITE@UIUC. All the useful resources used to study for **
    - **[2] [Time-Series Prophet Stuff](https://facebook.github.io/prophet/docs/quick_start.html)**
    - **[3] [Plotly Documentation](https://plotly.com/nodejs/)**
    - **[4] [Professor Wade Fagen-Ulmschneider and Karlie Flanagan's guide to Data Science with Python](https://discovery.cs.illinois.edu/learn/)**
-   - **[5] [Professor Hongye Liu CS 361 Fall 2021 Notes](https://courses.physics.illinois.edu/cs361/fa2021/)**
+
  - ## System Programming in Python
    - **[0] [Tech with Tim Python Socket Programming](https://www.youtube.com/watch?v=3QiPPX-KeSc)**
 
  
-- ## 파이썬 한국어 버전
+- ## 파이썬 한국어 버전 (Korean Version for Python)
    - **[0] [나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
    - **[1] [GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
 
