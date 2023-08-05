@@ -231,8 +231,15 @@ Opensource resources for ITE@UIUC. All the useful resources used to study for **
 
 - **PHYS 212 Physics Electricity & Magnetism**
   - **[0] [Ilectureonline Electricity & Magnetism](http://www.ilectureonline.com/lectures/subject/PHYSICS/5)**
-  - **[1] [Organic Chemistry Tutor Electricity & Magnetism](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)**
+  - **[1] [Organic Chemistry Tutor Electricity & Magnetism](https://www.youtube.com/watch?v=V9RLc9EX1so&list=PLv0qva_0Z5RrBlJkB7w2J8IcFEKZ1YyRq)**
+ 
+- **PHYS 213 Physics Thermal**
+  - **[0] [Ilectureonline Thermodynamics](http://www.ilectureonline.com/lectures/subject/PHYSICS/3)**
+  - **[1] [Organic Chemistry Tutor Thermal Physics](https://www.youtube.com/playlist?list=PLXqk4FqcJmIadvxP9UZxTWXLOaktqgW_c)**
 
+ - **PHYS 214 Physics Quantum**
+   - **[0] [Ilectureonline Quantum Mechanics](http://www.ilectureonline.com/lectures/subject/PHYSICS/11)**
+     
 - **CHEM 102 104 General Chemistry 1 & 2**
   - **[0] [Organic Chemistry Tutor General Chemistry Playlist](https://youtube.com/playlist?list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS)**
   - **[1] [Organic Chemistry Tutor CHEM 102 FINAL REVIEW](https://www.youtube.com/watch?v=5yw1YH7YA7c)**
