@@ -244,3 +244,6 @@ Opensource resources for ITE@UIUC. All the useful resources used to study for **
   - **[0] [Organic Chemistry Tutor General Chemistry Playlist](https://youtube.com/playlist?list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS)**
   - **[1] [Organic Chemistry Tutor CHEM 102 FINAL REVIEW](https://www.youtube.com/watch?v=5yw1YH7YA7c)**
   - **[2] [Organic Chemistry Tutor CHEM 104 FINAL REVIEW](https://www.youtube.com/watch?v=lSmJN1_uVpI)**
+    
+- **ECON 102 Microeconomics**
+  - **[0] [Jacob Clifford Microeconomics](https://www.youtube.com/watch?v=myeLTXMEhC4&list=PLD5BC727C84E254E5&pp=iAQB)**
